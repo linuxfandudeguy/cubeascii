@@ -15,3 +15,18 @@ Each time you make a HTTP request, the `cubeascii` api will display a frame from
 
 In order to make an animation out of this you would need to make a HTTP GET request with cURL to [`https://cubeascii.netlify.app
 `](https://cubeascii.netlify.app/) every 0.1 seconds which is why it's recommended to automate the requests.
+
+# Running Locally
+
+To run `cubeascii` locally, you need to follow these instructions:
+
+1. Clone the repo
+
+```bash
+git clone https://github.com/linuxfandudeguy/cubeascii.git
+```
+2. Enter the directory
+
+```bash
+git clone https://github.com/linuxfandudeguy/cubeascii.git
+```
