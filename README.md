@@ -57,3 +57,11 @@ while true; do
     sleep 0.02  # Adjust the sleep time as needed
 done
 ```
+## Locally Ran Automation
+
+```bash
+while true; do
+    curl http://localhost:3000
+    sleep 0.02  # Adjust the sleep time as needed
+done
+```
