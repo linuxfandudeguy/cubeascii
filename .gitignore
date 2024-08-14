@@ -1,4 +1,13 @@
-.vercel
+# Node.js dependencies
+node_modules/
+package-lock.json
+yarn.lock
+pnpm-lock.yaml
+
 
 # Local Netlify folder
 .netlify
+
+
+.DS_Store
+Thumbs.db
