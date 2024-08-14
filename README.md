@@ -43,3 +43,4 @@ yarn install
 ```bash
 node api/index.js
 ```
+You have now successfully ran `cubeascii` locally.
