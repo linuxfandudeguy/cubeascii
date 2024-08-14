@@ -39,3 +39,6 @@ or
 ```bash
 yarn install
 ```
+4. Running
+```bash
+node api/index.js
