@@ -11,4 +11,7 @@
 
 
 
-Each time you make a HTTP request the `cubeascii` api will display a frame from a 3D animation of a cube spinning in ASCII art
+Each time you make a HTTP request, the `cubeascii` api will display a frame from a 3D animation of a cube spinning in ASCII art.
+
+In order to make an animation out of this you would need to make a HTTP GET request with cURL to [`https://cubeascii.netlify.app
+`](https://cubeascii.netlify.app/) every 0.1 seconds which is why it's recommended to automate the requests.
