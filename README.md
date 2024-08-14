@@ -28,5 +28,5 @@ git clone https://github.com/linuxfandudeguy/cubeascii.git
 2. Enter the directory
 
 ```bash
-git clone https://github.com/linuxfandudeguy/cubeascii.git
+cd cubeascii
 ```
