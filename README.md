@@ -47,7 +47,7 @@ You have now successfully ran `cubeascii` locally.
 
 # Automation
 
-In order to make an animation out of this you can simply run this command in your terminal:
+In order to make an animation out of this, you can simply run this command in your terminal:
 
 ```bash
 while true; do
