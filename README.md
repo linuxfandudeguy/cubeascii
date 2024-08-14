@@ -41,7 +41,7 @@ yarn install
 ```
 4. Running
 ```bash
-node api/index.js
+node api/non_deployment_index.js
 ```
 The file might not run immediately because the file was heavily modified during deployment process.
 
