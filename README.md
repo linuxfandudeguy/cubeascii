@@ -44,3 +44,14 @@ yarn install
 node api/index.js
 ```
 You have now successfully ran `cubeascii` locally.
+
+# Automation
+
+In order to make an animation out of this you can simply run this command in your terminal:
+
+```bash
+while true; do
+    curl https://cubeascii.netlify.app/
+    sleep 0.02  # Adjust the sleep time as needed
+done
+```
