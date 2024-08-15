@@ -43,7 +43,6 @@ yarn install
 ```bash
 node api/non_deployment_index.js
 ```
-The file might not run immediately because the file was heavily modified during deployment process.
 
 You have now successfully ran `cubeascii` locally.
 
