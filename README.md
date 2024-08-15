@@ -30,16 +30,7 @@ git clone https://github.com/linuxfandudeguy/cubeascii.git
 ```bash
 cd cubeascii
 ```
-3. Installing dependencies
-
-```bash
-npm install
-```
-or
-```bash
-yarn install
-```
-4. Running
+3. Running
 ```bash
 node api/non_deployment_index.js
 ```
