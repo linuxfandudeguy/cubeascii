@@ -9,7 +9,7 @@
 
 `cubeascii` is a api written in Node.js with Express.js.
 
-
+`cubeascii` is based off of [cube.c](https://github.com/servetgulnaroglu/cube.c/tree/master) by [@servetgulnaroglu](https://github.com/servetgulnaroglu)
 
 Each time you make a HTTP request, the `cubeascii` api will display a frame from a 3D animation of a cube spinning in ASCII art.
 
